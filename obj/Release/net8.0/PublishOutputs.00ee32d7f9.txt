@@ -1,0 +1,11 @@
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Contact.exe
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Contact.dll
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Contact.deps.json
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Contact.runtimeconfig.json
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Contact.pdb
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahmoud Abdelrady\source\repos\Contact\Contact\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
